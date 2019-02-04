@@ -1,6 +1,6 @@
 /node_modules
 /public/hot
-/public/adminlte/plugins
+/public/adminlte
 /public/storage
 /storage/*.key
 /vendor
